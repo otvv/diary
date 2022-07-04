@@ -1,2 +1,2 @@
-# otvv-s-diary
+# :notebook: otvv's diary
 my personal "blog" source code
