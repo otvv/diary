@@ -1,2 +1,3 @@
 # :notebook: otvv's diary
-my personal "blog" source code
+
+ramblings of a anxious software engineer who happens to love cars
