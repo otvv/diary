@@ -6,11 +6,3 @@ paginate: 3
 paginate_path: /page/:num/
 
 future: true
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
