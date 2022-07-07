@@ -5,8 +5,8 @@ theme: jekyll-theme-hacker
 paginate: 3
 paginate_path: /page/:num/
 
-baseurl: /
 future: true
+
 defaults:
   -
     scope:
