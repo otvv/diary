@@ -1,3 +1,4 @@
-## first post
-
-yay
+---
+layout: post
+title:  "first post"
+---
