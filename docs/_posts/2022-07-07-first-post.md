@@ -2,6 +2,7 @@
 layout: post
 title:  "first post"
 tags: welcome post
+published: true
 ---
 
 
