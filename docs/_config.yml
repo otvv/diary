@@ -1,3 +1,14 @@
 title: diary/
 description: "ramblings of an anxious software engineer who happens to love cars"
 theme: jekyll-theme-hacker
+
+
+baseurl: /
+future: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
