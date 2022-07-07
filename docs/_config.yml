@@ -1,31 +1,4 @@
+theme: jekyll-theme-hacker
 title: $diary
 description: "ramblings of an anxious software engineer who happens to love cars"
-author:
-  name: "otvv"
-  url: "otvv.github.io/diary"
-
-baseurl: /
-
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 3
-paginate_path: /page/:num/
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-future: true
-plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# custom variables
-owner : "otvv"
-year : "2022"
+theme: 
