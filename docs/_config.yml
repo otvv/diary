@@ -1,6 +1,6 @@
 title: diary
 description: "ramblings of an anxious software engineer who happens to love cars"
-theme: jekyll-theme-hacker
+remote_theme: "dracula/gh-pages"
 
 paginate: 3
 paginate_path: /page/:num/
