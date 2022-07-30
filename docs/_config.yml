@@ -1,6 +1,6 @@
 title: diary
 description: "ramblings of an anxious software engineer"
-remote_theme: "dracula/gh-pages"
+theme: jekyll-theme-hacker
 
 baseurl: /
 paginate: 3
