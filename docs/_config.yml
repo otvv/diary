@@ -5,4 +5,12 @@ theme: jekyll-theme-hacker
 paginate: 3
 paginate_path: /page/:num/
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
 future: true
