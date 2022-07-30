@@ -1,7 +1,6 @@
 ---
 layout: post
 title: first post
-published: true
 ---
 
-this is a test.
+### this is a test.
