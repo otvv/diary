@@ -6,7 +6,7 @@ collections:
   authors:
   output: true
 
-baseurl: /diary/
+baseurl: /
 paginate: 3
 paginate_path: /page/:num/
 
@@ -19,7 +19,7 @@ defaults:
     values:
       layout: "author"
   - scope:
-      path: "diary"
+      path: ""
       type: "posts"
     values:
       layout: "post"
