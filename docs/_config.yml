@@ -6,7 +6,7 @@ collections:
   authors:
   output: true
 
-baseurl: /
+baseurl: /diary/
 paginate: 3
 paginate_path: /page/:num/
 
