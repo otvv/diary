@@ -1,6 +1,6 @@
 ---
 short_name: otvv
 name: Otávio H.
-position: Owner
+position: owner
 ---
-Otavio is 22 years old brazilian programmer who happens to love cars.
+Otávio is a 22 years old software engineer who happens to love cars.
