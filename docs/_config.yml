@@ -3,7 +3,7 @@ description: "ramblings of an anxious software engineer"
 theme: jekyll-theme-hacker
 
 collections:
-  authors: otvv
+  authors:
   output: true
 
 baseurl: /
