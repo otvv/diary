@@ -19,7 +19,7 @@ defaults:
     values:
       layout: "author"
   - scope:
-      path: ""
+      path: "diary"
       type: "posts"
     values:
       layout: "post"
