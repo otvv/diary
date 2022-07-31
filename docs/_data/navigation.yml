@@ -1,4 +1,4 @@
-name: home
-link: /
-name: about
-link: /staff.html
+- name: home
+  link: /
+- name: about
+  link: /staff.html
