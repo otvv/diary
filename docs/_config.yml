@@ -5,8 +5,6 @@ theme: jekyll-theme-hacker
 collections:
   authors:
   output: true
-  
-excerpt_separator: <!--more-->
 
 baseurl: /
 paginate: 3
