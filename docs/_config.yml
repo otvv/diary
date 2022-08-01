@@ -10,6 +10,8 @@ baseurl: /
 paginate: 3
 paginate_path: /page/:num/
 
+excerpt_separator: <!--more-->
+
 future: true
 
 defaults:
