@@ -11,7 +11,10 @@ title: staff
     </li>
   {% endfor %}
   
-  <h3>posts</h3>
+  <br>
+  </br>
+  
+  <h4>posts</h4>
   <ul>
     {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
     {% for post in filtered_posts %}
