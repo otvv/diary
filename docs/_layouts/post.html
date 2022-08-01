@@ -14,7 +14,6 @@ layout: default
 {{ content }}
 
 <h4>tags:</h4>
-
-    {% for tag in site.tags %}
+    {% for tag in page.tags %}
       <p>{{ tag[0] }}</p>
     {% endfor %}
