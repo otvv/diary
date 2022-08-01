@@ -5,7 +5,7 @@ title: staff
 <ul>
   {% for author in site.authors %}
     <li>
-      <h2><a>{{ author.name }}</a></h2>
+      <h2>{{ author.name }}</h2>
       <h3>{{ author.position }}</h3>
       <p>{{ author.content | markdownify }}</p>
     </li>
@@ -14,7 +14,7 @@ title: staff
   <br>
   </br>
   
-  <h4>posts</h4>
+  <h3>posts:</h3>
   <ul>
     {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
     {% for post in filtered_posts %}
